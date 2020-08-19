@@ -1,0 +1,183 @@
+@font-face {
+    font-family: 'SFUFunctionCondensed';
+    src: url('../images/fonts/SFUFunctionCondensed.eot');
+    src: url('../images/fonts/SFUFunctionCondensed.eot') format('embedded-opentype'),
+         url('../images/fonts/SFUFunctionCondensed.woff2') format('woff2'),
+         url('../images/fonts/SFUFunctionCondensed.woff') format('woff'),
+         url('../images/fonts/SFUFunctionCondensed.ttf') format('truetype'),
+         url('../images/fonts/SFUFunctionCondensed.svg#SFUFunctionCondensed') format('svg');
+}
+@font-face {
+    font-family: 'SFUSolexMedium';
+    src: url('../images/fonts/SFUSolexMedium.eot');
+    src: url('../images/fonts/SFUSolexMedium.eot') format('embedded-opentype'),
+         url('../images/fonts/SFUSolexMedium.woff2') format('woff2'),
+         url('../images/fonts/SFUSolexMedium.woff') format('woff'),
+         url('../images/fonts/SFUSolexMedium.ttf') format('truetype'),
+         url('../images/fonts/SFUSolexMedium.svg#SFUSolexMedium') format('svg');
+}
+
+@font-face {
+    font-family: 'SFUSolexBold';
+    src: url('../images/fonts/SFUSolexBold.eot');
+    src: url('../images/fonts/SFUSolexBold.eot') format('embedded-opentype'),
+         url('../images/fonts/SFUSolexBold.woff2') format('woff2'),
+         url('../images/fonts/SFUSolexBold.woff') format('woff'),
+         url('../images/fonts/SFUSolexBold.ttf') format('truetype'),
+         url('../images/fonts/SFUSolexBold.svg#SFUSolexBold') format('svg');
+}
+
+@font-face {
+    font-family: 'SFUSolexRegular';
+    src: url('../images/fonts/SFUSolexRegular.eot');
+    src: url('../images/fonts/SFUSolexRegular.eot') format('embedded-opentype'),
+         url('../images/fonts/SFUSolexRegular.woff2') format('woff2'),
+         url('../images/fonts/SFUSolexRegular.woff') format('woff'),
+         url('../images/fonts/SFUSolexRegular.ttf') format('truetype'),
+         url('../images/fonts/SFUSolexRegular.svg#SFUSolexRegular') format('svg');
+}
+
+@font-face {
+    font-family: 'SFUSolexBlack';
+    src: url('../images/fonts/SFUSolexBlack.eot');
+    src: url('../images/fonts/SFUSolexBlack.eot') format('embedded-opentype'),
+         url('../images/fonts/SFUSolexBlack.woff2') format('woff2'),
+         url('../images/fonts/SFUSolexBlack.woff') format('woff'),
+         url('../images/fonts/SFUSolexBlack.ttf') format('truetype'),
+         url('../images/fonts/SFUSolexBlack.svg#SFUSolexBlack') format('svg');
+}
+
+@font-face {
+    font-family: 'RobotoBold';
+    src: url('../images/fonts/RobotoBold.eot');
+    src: url('../images/fonts/RobotoBold.eot') format('embedded-opentype'),
+         url('../images/fonts/RobotoBold.woff2') format('woff2'),
+         url('../images/fonts/RobotoBold.woff') format('woff'),
+         url('../images/fonts/RobotoBold.ttf') format('truetype'),
+         url('../images/fonts/RobotoBold.svg#RobotoBold') format('svg');
+}
+@font-face {
+    font-family: 'OpenSansRegular';
+    src: url('../images/fonts/OpenSansRegular.eot');
+    src: url('../images/fonts/OpenSansRegular.eot') format('embedded-opentype'),
+         url('../images/fonts/OpenSansRegular.woff2') format('woff2'),
+         url('../images/fonts/OpenSansRegular.woff') format('woff'),
+         url('../images/fonts/OpenSansRegular.ttf') format('truetype'),
+         url('../images/fonts/OpenSansRegular.svg#OpenSansRegular') format('svg');
+}
+@font-face {
+    font-family: 'OpenSansBold';
+    src: url('../images/fonts/OpenSansBold.eot');
+    src: url('../images/fonts/OpenSansBold.eot') format('embedded-opentype'),
+         url('../images/fonts/OpenSansBold.woff2') format('woff2'),
+         url('../images/fonts/OpenSansBold.woff') format('woff'),
+         url('../images/fonts/OpenSansBold.ttf') format('truetype'),
+         url('../images/fonts/OpenSansBold.svg#OpenSansBold') format('svg');
+}
+@font-face {
+    font-family: 'UVF Geotica';
+    src: url('../images/fonts/UVFGeotica.eot');
+    src: url('../images/fonts/UVFGeotica.eot?#iefix') format('embedded-opentype'),
+        url('../images/fonts/UVFGeotica.woff2') format('woff2'),
+        url('../images/fonts/UVFGeotica.woff') format('woff'),
+        url('../images/fonts/UVFGeotica.ttf') format('truetype'),
+        url('../images/fonts/UVFGeotica.svg#UVFGeotica') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'UTM HelvetIns';
+    src: url('../images/fonts/UTMHelvetIns.eot');
+    src: url('../images/fonts/UTMHelvetIns.eot?#iefix') format('embedded-opentype'),
+        url('../images/fonts/UTMHelvetIns.woff2') format('woff2'),
+        url('../images/fonts/UTMHelvetIns.woff') format('woff'),
+        url('../images/fonts/UTMHelvetIns.ttf') format('truetype'),
+        url('../images/fonts/UTMHelvetIns.svg#UTMHelvetIns') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'UTM SeagullBold';
+    src: url('../images/fonts/UTMSeagullBold.eot');
+    src: url('../images/fonts/UTMSeagullBold.eot?#iefix') format('embedded-opentype'),
+        url('../images/fonts/UTMSeagullBold.woff2') format('woff2'),
+        url('../images/fonts/UTMSeagullBold.woff') format('woff'),
+        url('../images/fonts/UTMSeagullBold.ttf') format('truetype'),
+        url('../images/fonts/UTMSeagullBold.svg#UTMSeagullBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SFU FuturaBook';
+    src: url('../images/fonts/SFUFuturaBook.eot');
+    src: url('../images/fonts/SFUFuturaBook.eot?#iefix') format('embedded-opentype'),
+        url('../images/fonts/SFUFuturaBook.woff2') format('woff2'),
+        url('../images/fonts/SFUFuturaBook.woff') format('woff'),
+        url('../images/fonts/SFUFuturaBook.ttf') format('truetype'),
+        url('../images/fonts/SFUFuturaBook.svg#SFUFuturaBook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SVNSegoeUIBold';
+    src: url('../images/fonts/SVNSegoeUIBold.eot');
+    src: url('../images/fonts/SVNSegoeUIBold.eot') format('embedded-opentype'),
+         url('../images/fonts/SVNSegoeUIBold.woff2') format('woff2'),
+         url('../images/fonts/SVNSegoeUIBold.woff') format('woff'),
+         url('../images/fonts/SVNSegoeUIBold.ttf') format('truetype'),
+         url('../images/fonts/SVNSegoeUIBold.svg#SVNSegoeUIBold') format('svg');
+}
+
+@font-face {
+    font-family: 'SFU FuturaHeavy';
+    src: url('../images/fonts/SFUFuturaHeavy.eot');
+    src: url('../images/fonts/SFUFuturaHeavy.eot?#iefix') format('embedded-opentype'),
+        url('../images/fonts/SFUFuturaHeavy.woff2') format('woff2'),
+        url('../images/fonts/SFUFuturaHeavy.woff') format('woff'),
+        url('../images/fonts/SFUFuturaHeavy.ttf') format('truetype'),
+        url('../images/fonts/SFUFuturaHeavy.svg#SFUFuturaHeavy') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SFU FuturaHeavy';
+    src: url('../images/fonts/SFUFuturaHeavy.eot');
+    src: url('../images/fonts/SFUFuturaHeavy.eot?#iefix') format('embedded-opentype'),
+        url('../images/fonts/SFUFuturaHeavy.woff2') format('woff2'),
+        url('../images/fonts/SFUFuturaHeavy.woff') format('woff'),
+        url('../images/fonts/SFUFuturaHeavy.ttf') format('truetype'),
+        url('../images/fonts/SFUFuturaHeavy.svg#SFUFuturaHeavy') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'UTMAvo';
+    src: url('../images/fonts/UTMAvo.eot');
+    src: url('../images/fonts/UTMAvo.eot?#iefix') format('embedded-opentype'),
+        url('../images/fonts/UTMAvo.woff2') format('woff2'),
+        url('../images/fonts/UTMAvo.woff') format('woff'),
+        url('../images/fonts/UTMAvo.ttf') format('truetype'),
+        url('../images/fonts/UTMAvo.svg#UTMAvo') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'UTMAvoBold';
+    src: url('../images/fonts/UTMAvoBold.eot');
+    src: url('../images/fonts/UTMAvoBold.eot?#iefix') format('embedded-opentype'),
+        url('../images/fonts/UTMAvoBold.woff2') format('woff2'),
+        url('../images/fonts/UTMAvoBold.woff') format('woff'),
+        url('../images/fonts/UTMAvoBold.ttf') format('truetype'),
+        url('../images/fonts/UTMAvoBold.svg#UTMAvoBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SVNBira';
+    src: url('../images/fonts/SVNBira.eot');
+    src: url('../images/fonts/SVNBira.eot') format('embedded-opentype'),
+         url('../images/fonts/SVNBira.woff2') format('woff2'),
+         url('../images/fonts/SVNBira.woff') format('woff'),
+         url('../images/fonts/SVNBira.ttf') format('truetype'),
+         url('../images/fonts/SVNBira.svg#SVNBira') format('svg');
+}
