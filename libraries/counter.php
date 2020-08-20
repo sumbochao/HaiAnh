@@ -63,7 +63,7 @@ $today            =    'Hôm nay : ';
 
     if (empty($items))
     {
-        $query = "INSERT INTO counter (id, tm, ip) VALUES ('', '$now', '$ip')";
+        $query = "INSERT INTO counter (id, tm, ip) VALUES (null, $now, '$ip')";
         $d->query($query);
     }
 

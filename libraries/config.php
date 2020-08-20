@@ -23,8 +23,8 @@
 	$config_ip="127.0.0.1";
 
 	$config['database']['servername'] = 'localhost';
-	$config['database']['username'] = 'haian418_kc';
-	$config['database']['password'] = 'ad._j=+IG2m6';
+	$config['database']['username'] = 'root';
+	$config['database']['password'] = '';
 	$config['database']['database'] = 'haian418_kc';
 	$config['database']['refix'] = 'table_';
 	$config['salt']='VBLSHHUba~';
